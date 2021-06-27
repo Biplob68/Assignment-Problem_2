@@ -13,8 +13,8 @@
 * Responsive UI
 * Nice Framework
 * Dependency Management
-* Searchability
 * A suitable look for the use case
 * Pull the images directly from amazon
 * Database
 * Object Relation Mapping
+* Searchability
