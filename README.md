@@ -11,6 +11,9 @@
 * The webpage consist of 10+ products with name, price in BDT, product discriptions and image of the product.
 * If an image/product name is clicked the browser will take to that product on the Amazon website. 
 
+
+
+
 ![product page-1](https://user-images.githubusercontent.com/66861180/123554222-cbde1300-d7a0-11eb-83c9-6754c21dd956.PNG)
 
 ## Extra Feature of the webpage 
