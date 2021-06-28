@@ -35,3 +35,11 @@
 
 ## Contact Page
 ![contact page](https://user-images.githubusercontent.com/66861180/123554244-dc8e8900-d7a0-11eb-885b-0ba170eb325b.PNG)
+
+
+## Register Page
+![register page](https://user-images.githubusercontent.com/66861180/123610907-de009580-d822-11eb-9e20-78c1519507a8.PNG)
+
+
+## Login Page
+![login page](https://user-images.githubusercontent.com/66861180/123610840-cc1ef280-d822-11eb-9ff6-1900edfc0d25.PNG)
